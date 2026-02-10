@@ -1,0 +1,3 @@
+/home/riaz/Github/bullrun/build/CMakeFiles/game.dir
+/home/riaz/Github/bullrun/build/CMakeFiles/edit_cache.dir
+/home/riaz/Github/bullrun/build/CMakeFiles/rebuild_cache.dir
